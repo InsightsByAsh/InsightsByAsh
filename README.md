@@ -52,7 +52,7 @@ Most of my projects are end-to-end — raw data in, business insight out. No mid
 | [HR Attrition Analysis](https://github.com/InsightsByAsh/hr-attrition-analysis) | MySQL · Power BI | Analyzed IBM HR dataset to identify attrition drivers across departments, salary bands, and tenure |
 | [Customer Churn Analysis](https://github.com/InsightsByAsh/customer-churn-analysis) | MySQL | SQL-based churn analysis on Telco dataset — segmented by contract type, tenure, and service usage |
 | [Sales Performance Dashboard](https://github.com/InsightsByAsh/sales-performance-dashboard) | Excel · Power BI | Interactive sales dashboard on Superstore dataset — regional performance, category trends, YoY growth |
-
+| [Cyclistic Bike-Share Analysis](https://github.com/InsightsByAsh/Cyclistic-Bike-Share-Analysis) | SQL · Power BI | Analyzed millions of Chicago bike-share trips to identify behavioral differences between casual riders and annual members — peak hours, seasonal trends, conversion insights |
 ---
 
 ### Certifications
