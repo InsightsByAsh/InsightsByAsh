@@ -49,6 +49,7 @@ Most of my projects are end-to-end — raw data in, business insight out. No mid
 | Project | Stack | What It Does |
 |---------|-------|--------------|
 | [Financial Analytics Dashboard](https://github.com/InsightsByAsh/Financial-Analytics-Dashboard) | Python · AWS S3 · Glue · Athena · Power BI | End-to-end cloud analytics pipeline on 2000+ financial records. CSV → Parquet → S3 → SQL → 3 executive dashboards |
+| [GA Traffic Analysis](https://github.com/InsightsByAsh/GA-Traffic-Analysis-BigQuery-LookerStudio) | BigQuery · Looker Studio | Analyzed 14,643 rows of Google Analytics 360 data — device traffic share, geographic patterns, and daily visit trends. Dashboard lost to an incognito session. SQL survived. |
 | [Superstore Sales Analytics](https://github.com/InsightsByAsh/Superstore-Sales-S3-Snowflake-PowerBI) | AWS S3 · Snowflake · Power BI | Cloud data pipeline — raw CSV stored in S3, loaded into Snowflake via IAM integration, analyzed with SQL, visualized in Power BI via DirectQuery |
 | [HR Attrition Analysis](https://github.com/InsightsByAsh/hr-attrition-analysis) | MySQL · Power BI | Analyzed IBM HR dataset to identify attrition drivers across departments, salary bands, and tenure |
 | [Customer Churn Analysis](https://github.com/InsightsByAsh/customer-churn-analysis) | MySQL | SQL-based churn analysis on Telco dataset — segmented by contract type, tenure, and service usage |
